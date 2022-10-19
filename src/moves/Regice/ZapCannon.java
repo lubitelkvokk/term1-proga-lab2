@@ -10,7 +10,7 @@ public class ZapCannon extends SpecialMove {
     @Override
     protected void applyOppEffects(Pokemon p) {
         Effect.paralyze(p);
-        Effect e = new Effect().chance(0.25).attack(0).turns(1);
+        Effect e = new Effect().chance(0.25).stat(Stat.SPEED, -1);
         p.addEffect(e);
     }
 

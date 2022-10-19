@@ -19,7 +19,7 @@ public class DoubleTeam extends StatusMove {
 
     @Override
     protected String describe() {
-        return "Использует Blizzard";
+        return "Использует Double Team";
     }
 
 }

@@ -14,7 +14,7 @@ public class SwordsDance extends StatusMove {
     @Override
     protected void applySelfEffects(Pokemon p) {
         p.setMod(Stat.ATTACK, 2);
-        p.getStat(Stat.ATTACK);
+        //System.out.println(p.getStat(Stat.ATTACK));
     }
 
     @Override

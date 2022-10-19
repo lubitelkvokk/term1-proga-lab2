@@ -8,12 +8,15 @@ import src.moves.Regice.*;
 
 
 public class Regice extends Pokemon {
+
     public Regice(String name, int level) {
         super(name, level);
         setStats(80,50,100,100,200,50);
         setType(Type.ICE);
-        setMove(new DoubleTeam()/*, Thunder(), new ZapCannon(), new Rest()*/);
+        setMove(new DoubleTeam(),new Thunder(), new ZapCannon(), new Rest());
 
     }
+
+
 
 }

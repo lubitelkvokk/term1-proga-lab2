@@ -9,9 +9,8 @@ public class Rest extends StatusMove {
 
     @Override
     protected void applySelfEffects(Pokemon p) {
-        Effect e = new Effect();
-        e.turns(2).sleep(p);
-        p.getStat(Stat.HP);
+        Effect e = new Effect().condition(Status.SLEEP).turns(2).stat(Stat.HP, -(int) p.getStat(Stat.HP));
+        p.addEffect(e);
 
     }
 
