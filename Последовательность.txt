@@ -1,0 +1,3 @@
+javac -d build -cp "src;lib/Pokemon.jar" src/org/itmo/lab2/battle/Battlefield.java
+cd build
+jar -cfm app.jar MANIFEST.MF org lib
