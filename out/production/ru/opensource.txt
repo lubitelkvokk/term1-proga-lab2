@@ -1,6 +1,0 @@
-https://javarush.ru/groups/posts/1967-otnoshenija-mezhdu-klassami-nasledovanie-kompozicija-i-agregirovanie-
-https://prog-cpp.ru/uml-classes/
-https://habr.com/ru/post/572234/
-https://www.youtube.com/watch?v=O3o9oOWBwb0
-https://docs.yandex.ru/docs/view?url=ya-browser%3A%2F%2F4DT1uXEPRrJRXlUFoewruKDzL42ed7fx-oMELVFU7BKPWFf4kAGBEZxT69KKypr3Uc07wS8qZN-vQ4yeUA858ZRwLzA4DaKfu07jytPDhxVhzj7o4W6lzlZE-7qwAMyePV6qfhuWAwTxjjo_T1bXkA%3D%3D%3Fsign%3DRz670GMIATdWbu1OiF-BIYw45cXE9py9Q_Pt5YXb8do%3D&name=Лаба2.docx&nosw=1
-https://habr.com/ru/post/572234/
