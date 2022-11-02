@@ -1,4 +1,4 @@
-package org.itmo.lab2.moves.Azumarill;
+package org.itmo.lab2.moves.azumarill;
 
 import ru.ifmo.se.pokemon.*;
 

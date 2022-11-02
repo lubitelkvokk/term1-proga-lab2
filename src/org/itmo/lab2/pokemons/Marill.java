@@ -2,7 +2,7 @@ package org.itmo.lab2.pokemons;
 
 import ru.ifmo.se.pokemon.Pokemon;
 import ru.ifmo.se.pokemon.Type;
-import org.itmo.lab2.moves.Marill.*;
+import org.itmo.lab2.moves.marill.*;
 
 
 public class Marill extends Azurill {

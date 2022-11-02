@@ -1,4 +1,4 @@
-package org.itmo.lab2.moves.Riolu;
+package org.itmo.lab2.moves.riolu;
 
 import ru.ifmo.se.pokemon.Pokemon;
 import ru.ifmo.se.pokemon.Stat;

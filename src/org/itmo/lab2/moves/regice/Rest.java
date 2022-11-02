@@ -1,4 +1,4 @@
-package org.itmo.lab2.moves.Riolu;
+package org.itmo.lab2.moves.regice;
 
 import ru.ifmo.se.pokemon.*;
 
@@ -9,9 +9,10 @@ public class Rest extends StatusMove {
 
     @Override
     protected void applySelfEffects(Pokemon p) {
-        Effect e = new Effect().condition(Status.SLEEP).turns(2).stat(Stat.HP, -(int) p.getStat(Stat.HP));
-        p.addEffect(e);
+        Effect e = new Effect().condition(Status.SLEEP).turns(2);
 
+        p.addEffect(e);
+        p.setMod(Stat.HP, -(int) p.getStat(Stat.HP));
     }
 
     @Override

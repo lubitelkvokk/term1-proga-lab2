@@ -1,9 +1,9 @@
 package org.itmo.lab2.pokemons;
 
-import org.itmo.lab2.moves.Azumarill.AquaRing;
+import org.itmo.lab2.moves.azumarill.*;
 import ru.ifmo.se.pokemon.Pokemon;
 import ru.ifmo.se.pokemon.Type;
-import org.itmo.lab2.moves.Azurill.Swagger;
+
 
 
 

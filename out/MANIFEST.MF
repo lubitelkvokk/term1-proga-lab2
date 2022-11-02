@@ -1,2 +1,0 @@
-Main-Class: org.itmo.lab2.battle.Battlefield
-Class-Path: lib/Pokemon.jar

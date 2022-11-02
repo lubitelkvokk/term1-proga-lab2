@@ -1,4 +1,4 @@
-package org.itmo.lab2.moves.Marill;
+package org.itmo.lab2.moves.marill;
 
 import ru.ifmo.se.pokemon.*;
 

@@ -2,7 +2,7 @@ package org.itmo.lab2.pokemons;
 
 import ru.ifmo.se.pokemon.Pokemon;
 import ru.ifmo.se.pokemon.Type;
-import org.itmo.lab2.moves.Lucario.*;
+import org.itmo.lab2.moves.lucario.*;
 
 
 public class Lucario extends Riolu {

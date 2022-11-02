@@ -1,4 +1,4 @@
-package org.itmo.lab2.moves.Regice;
+package org.itmo.lab2.moves.regice;
 
 import ru.ifmo.se.pokemon.*;
 

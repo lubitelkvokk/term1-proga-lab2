@@ -1,19 +1,16 @@
 package org.itmo.lab2.battle;
-import ru.ifmo.se.pokemon.Battle;
-import ru.ifmo.se.pokemon.Effect;
-import ru.ifmo.se.pokemon.Stat;
 import org.itmo.lab2.pokemons.*;
+import ru.ifmo.se.pokemon.Battle;
 
 
-
-public class Battlefield {
+public class BattleField {
     public static void main(String[] args) {
-        Battle field = new Battle();
+        Battle battle = new Battle();
         Riolu b = new Lucario("НейроЧЕЛИКС", 35);
         Regice a = new Regice("НейроCRISTAL", 35);
         Riolu c = new Riolu("НейроДОДИК", 45);
         Azumarill f = new Azumarill("НейроМИНЬОН", 35);
-        Azurill d = new Azurill("НейроШМЫХ",45 );
+        Azurill d = new Azurill("НейроШМЫХ", 45);
         Marill e = new Marill("НейроВАФЛЯ", 35);
 
 
@@ -21,16 +18,15 @@ public class Battlefield {
         //c.getStat(Stat.HP)-базовое значение
         //System.out.println(c.getHP());
         //System.out.println(a.getStat(Stat.DEFENSE));
-        field.addFoe(c);
-        field.addFoe(a);
-        field.addFoe(b);
-
+        battle.addFoe(c);
+        battle.addFoe(b);
+        battle.addFoe(a);
 
         //field.addFoe(a);
-        field.addAlly(f);
-        field.addAlly(e);
-        field.addAlly(d);
-        field.go();
-    }
+        battle.addAlly(f);
+        battle.addAlly(e);
+        battle.addAlly(d);
+        battle.go();
 
+    }
 }

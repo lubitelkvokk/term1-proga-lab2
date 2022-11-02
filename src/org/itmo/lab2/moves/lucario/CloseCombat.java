@@ -1,4 +1,4 @@
-package org.itmo.lab2.moves.Lucario;
+package org.itmo.lab2.moves.lucario;
 
 import ru.ifmo.se.pokemon.*;
 

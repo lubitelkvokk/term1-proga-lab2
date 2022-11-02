@@ -2,8 +2,8 @@ package org.itmo.lab2.pokemons;
 
 import ru.ifmo.se.pokemon.Pokemon;
 import ru.ifmo.se.pokemon.Type;
-import org.itmo.lab2.moves.Azurill.Swagger;
-import org.itmo.lab2.moves.Azurill.Blizzard;
+import org.itmo.lab2.moves.azurill.*;
+
 
 public class Azurill extends Pokemon {
 //    String name;

@@ -2,8 +2,8 @@ package org.itmo.lab2.pokemons;
 
 import ru.ifmo.se.pokemon.Pokemon;
 import ru.ifmo.se.pokemon.Type;
-import org.itmo.lab2.moves.Riolu.*;
-
+import org.itmo.lab2.moves.riolu.*;
+import org.itmo.lab2.moves.regice.Rest;
 
 public class Riolu extends Pokemon {
 //    String name;

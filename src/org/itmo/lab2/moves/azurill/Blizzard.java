@@ -1,4 +1,4 @@
-package org.itmo.lab2.moves.Azurill;
+package org.itmo.lab2.moves.azurill;
 import java.lang.Math;
 import ru.ifmo.se.pokemon.*;
 

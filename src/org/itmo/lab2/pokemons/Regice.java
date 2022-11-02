@@ -4,7 +4,7 @@ import ru.ifmo.se.pokemon.Effect;
 import ru.ifmo.se.pokemon.Pokemon;
 import ru.ifmo.se.pokemon.Stat;
 import ru.ifmo.se.pokemon.Type;
-import org.itmo.lab2.moves.Regice.*;
+import org.itmo.lab2.moves.regice.*;
 
 
 public class Regice extends Pokemon {
