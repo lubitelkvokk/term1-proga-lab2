@@ -1,8 +1,7 @@
 package org.itmo.lab2.pokemons;
 
-import ru.ifmo.se.pokemon.Effect;
+import org.itmo.lab2.moves.regice.*;
 import ru.ifmo.se.pokemon.Pokemon;
-import ru.ifmo.se.pokemon.Stat;
 import ru.ifmo.se.pokemon.Type;
 import org.itmo.lab2.moves.regice.*;
 
